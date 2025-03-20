@@ -24,4 +24,8 @@ The Blockchain Powered Gratitude Journal aims to revolutionize the digital art s
 - **Royalties & Revenue Sharing**: Artists can set royalties for secondary sales.
 - **Decentralized Storage**: IPFS integration to store artwork securely.
 
+- 0xD4eAEbfd47672EcA35B1BA7734290f362842771C
+- ![image](https://github.com/user-attachments/assets/3f28b571-03b5-4e74-b45d-fbf88161504b)
+
+
 
