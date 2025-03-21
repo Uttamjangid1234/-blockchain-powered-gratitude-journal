@@ -27,5 +27,7 @@ The Blockchain Powered Gratitude Journal aims to revolutionize the digital art s
 - 0xD4eAEbfd47672EcA35B1BA7734290f362842771C
 - ![image](https://github.com/user-attachments/assets/3f28b571-03b5-4e74-b45d-fbf88161504b)
 
+##Frontend
+- ![image](https://github.com/user-attachments/assets/e04d10b8-a8c5-4f15-9b21-f7949b40041f)
 
 
